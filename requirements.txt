@@ -6,4 +6,4 @@ seaborn
 numpy
 fastapi
 uvicorn[standard]
-
+pydantic
